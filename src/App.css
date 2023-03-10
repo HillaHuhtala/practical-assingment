@@ -1,11 +1,36 @@
+/*font-family: 'Dancing Script', cursive;*/
+
 .container {
-    margin: 50px;
+    margin-left: auto;
+    margin-top: 50px;
     padding: 20px;
     text-align: center;
     background-color: rgba(132, 150, 201, .5);
     border-radius: 20px;
 }
 
-.footer {
-    width: 100%;
+form{
+    margin-bottom: 20px;
+    font-size: 1.2rem;
+}
+
+button, label{
+    margin: 20px;
+}
+
+input, input:focus {
+    border-radius: 3px;
+    box-shadow: none;
+    border-style: none;
+    padding: 5px;
+}
+
+table {
+    margin-top: 20px;
+    font-size: 1.2rem;
+}
+
+h3 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 2.5rem;
 }

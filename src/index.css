@@ -2,4 +2,5 @@ body {
   background:linear-gradient(#CDFFFD,#DE97FF);
   background-attachment: fixed;
   bottom: 0px;
+  padding-bottom: 70px;
 }

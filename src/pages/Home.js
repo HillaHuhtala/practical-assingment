@@ -5,11 +5,8 @@ import API from '../components/Api';
 export default function Home() {
     return (
         <div>
-            <h1>Here's a randomly picked William Shakespeare poem for you</h1>
+            <p>Here's a randomly picked William Shakespeare poem for you. If you wish to see another randomly picked poem, please refresh the site.</p>
             <API />
-            
-            <div id="result">
-            </div>
         </div>
     );
 };

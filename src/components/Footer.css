@@ -3,5 +3,6 @@
     bottom: 0px;
     padding: 10px;
     text-align: center;
-    background-color: rgba(132, 150, 201, .5);
+    background-color: rgba(132, 150, 201, .8);
+    width: 100%;
 }
